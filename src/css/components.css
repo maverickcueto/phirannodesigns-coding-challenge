@@ -1,0 +1,13 @@
+/**
+ * These classes have lower specificity so we can override them
+ * with utility classes
+ */
+
+/* Tell Reach Dialog that we are handling styling ourselves */
+:root {
+  --reach-dialog: 1;
+}
+
+body {
+  @apply bg-teal-500;
+}
