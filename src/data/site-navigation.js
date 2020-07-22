@@ -1,5 +1,6 @@
 import {
   HomeIcon,
+  ContactIcon,
   FacebookIcon,
   InstagramIcon,
   TwitterIcon,
@@ -14,10 +15,21 @@ export const mainNavigation = [
     slug: '/',
     icon: HomeIcon,
   },
+  {
+    id: '332c64d1-d7f8-4e65-9ebe-954e9d4ffcca',
+    label: 'Contact',
+    slug: '/contact',
+    icon: ContactIcon,
+  },
 ];
 
 export const footerNavigation = [
   { id: '1cb87a4a-d781-4393-81ee-0b1dc604648f', label: 'Home', slug: '/' },
+  {
+    id: 'a04bb54f-d31f-4b89-91b5-648c22fa5901',
+    label: 'Contact',
+    slug: '/contact',
+  },
 ];
 
 export const socialLinks = [

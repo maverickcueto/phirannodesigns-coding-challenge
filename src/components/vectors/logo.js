@@ -1,22 +1,24 @@
-import PropTypes from 'prop-types';
 import React from 'react';
 
-export function Logo({ className }) {
+export function Logo(props) {
   return (
     <svg
-      aria-label="Site logo"
-      className={className}
       fillRule="evenodd"
+      strokeLinejoin="round"
+      strokeMiterlimit={2}
+      clipRule="evenodd"
       viewBox="0 0 24 24"
+      {...props}
     >
       <path
-        fill="currentColor"
-        d="M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12zm0-2.436l7.2-3.6v-4.8l-2.4-1.2 2.4-1.2v-4.8l-7.2-3.6v16.8l-4.8-2.4v-12l-2.4 1.2v12l7.2 3.6zm2.4-3.6l2.4-1.2v-2.4l-2.4-1.2v4.8zm0-7.2l2.4-1.2v-2.4l-2.4-1.2v4.8z"
+        fill="#0694a2"
+        d="M24 6c0-3.312-2.689-6-6-6H6C2.689 0 0 2.688 0 6v12c0 3.311 2.689 6 6 6h12c3.311 0 6-2.689 6-6V6z"
+      />
+      <path
+        d="M6.02 19.493V4.066h6.082c1.734 0 3.242.554 4.4 1.63 1.13 1.088 1.693 2.422 1.693 3.95 0 1.539-.574 2.872-1.702 3.929-1.18 1.077-2.719 1.62-4.483 1.62H9.784v4.298H6.02zM12.102 7.81H9.928v3.652l2.174.01c1.108 0 2.185-.76 2.185-1.826 0-1.057-1.077-1.836-2.185-1.836zm4.452 10.421c0-.933.77-1.713 1.713-1.713.923 0 1.713.78 1.713 1.713s-.78 1.703-1.713 1.703a1.707 1.707 0 01-1.713-1.703z"
+        fill="#fff"
+        fillRule="nonzero"
       />
     </svg>
   );
 }
-
-Logo.propTypes = {
-  className: PropTypes.string,
-};

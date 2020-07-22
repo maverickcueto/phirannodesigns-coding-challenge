@@ -1,0 +1,58 @@
+[
+  {
+    "id": "654bc1d7-a021-4a17-943e-3fb463c9524c",
+    "name": "Travis Mathew T-Shirt Globe Trot",
+    "description": "A green shirt made from fine cotton.",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/05fb4fbae323985fbbf69ec73ed6465d1ea601c3.jpg",
+    "price": 49.9,
+    "category": "shirts"
+  },
+  {
+    "id": "010065aa-6d62-43c5-ae48-6064cb274536",
+    "name": "Travis Mathew Mens Pants Beckladdium Grey",
+    "description": "You haven't seen pants like these before!",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/8ae6aee9b197246e8e0e1f7525feefe660d24430.jpg",
+    "price": 119.95,
+    "category": "pants"
+  },
+  {
+    "id": "7fdc7bc9-4375-440d-94ef-cc0ae2534ed2",
+    "name": "Travis Mathew Polo Zip It",
+    "description": "Impress even your toughest critics with TravisMathew's twist on an old classic. With a striped, color-blocked polo, you may even get your mother-in-law to finally ZIP IT.",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/6d3d9af994095ac889f6dedb6d6c66e5da4fe43c.jpg",
+    "price": 99.9,
+    "category": "shirts"
+  },
+  {
+    "id": "a3b791f7-8faa-4854-9e00-117e01cfc0f0",
+    "name": "White Shirt",
+    "description": "Cutter & Buck Mens Polo Herringbone",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/353ae99eb01b8bb1280c37491eefc6a602df92b0.jpg",
+    "price": 89.9,
+    "category": "shirts"
+  },
+  {
+    "id": "65fde37e-6616-4d79-8d0f-b810e25862db",
+    "name": "Cutter & Buck Mens Sweater Impact",
+    "description": "Impress your friends, impress your enemies! Buy this sweater!",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/a36eb4bf2059b4c46ebc3eda922def82ed59026b.jpg",
+    "price": 139.95,
+    "category": "outerwear"
+  },
+  {
+    "id": "0665083c-f0f8-480a-a28b-60053634c538",
+    "name": "Travis Methew Mens Pants Beckladdium Blue",
+    "description": "Part of the TravisMathew Must-Haves collection.",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/179b9dfe202bbedfc4504f40dc068193f2a3cce3.jpg",
+    "price": 119.95,
+    "category": "pants"
+  },
+  {
+    "id": "a0b1dd5e-3faf-4f36-9206-9d16949da829",
+    "name": "Greg Norman Mens Jacket Weatherknit Heather Black",
+    "description": "Weatherknit wind & rain protection, Reflective Shark logo on back neck, Signature Shark print interior.",
+    "image": "https://cdn.shopify.com/s/files/1/1080/9832/products/29a4046428c053a5e681bbaae4029fc364058183_cfd595dd-cad3-4df0-abd9-20e1be1492af.jpg",
+    "price": 169.9,
+    "category": "outerwear"
+  }
+]
